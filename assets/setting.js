@@ -1,16 +1,16 @@
 // ============= HOME ==============
 var Page = {
     //-- de trong "" de giu nguyen default text
-    logoText: "Landing Page ",
+    logoText: "Lý Hồng Lang ",
     subHeading: "Website để thể hiện. <strong>Landing page</strong> để thu hút khách hàng",
-    mainHeading: "<b>Email us now.</b> Own a <b>Landing page</b> in 24hrs",
+    mainHeading: "Tôi muốn đem <b>BHNT</b> đến với <b>mọi người</b>",
     CTA: "Tôi muốn có ngay Landing Page",
     brief: "Cơ hội nhận discount or Free Landing Page. Chỉ cần theo dõi các chương trình cộng đồng của chúng tôi",
 
     // ============= VARS ==============
-    url : "http://www.thietkewebnhanh.top/", //-- co slash cuoi /
-    mainkeyWord : "mở kênh online marketing",
-    longkeyWords : ["mở kênh online nhanh chóng", "thu hút khách hàng online"],
+    url : "http://lyhonglang.chinhlatoi.top/", //-- co slash cuoi /
+    mainkeyWord : "ly hong lang",
+    longkeyWords : ["BHNT", "bảo hiểm nhân th5"],
     facebookAppId : "303370230021409", //-- your appID
     googleAnalyticId : "UA-82197343-2", //-- your id
     formId: "https://docs.google.com/forms/d/e/1FAIpQLScjBXL-M0eRB0qhX1xSV5sWWAwsXbNqtjAGm3aq0-l5EZAisg/viewform?embedded=true",
@@ -18,13 +18,13 @@ var Page = {
 
 var Social = {
     //-- de trong "" de giu nguyen default text
-    email: "maito:",
-    facebook: "1",
-    twitter: "2",
-    google: "3",
-    instagram: "3",
-    pinterest: "0",
-    linkedin: "0"
+    email: "maito:langly.290857@gmail.com",
+    facebook: "facebook.com",
+    twitter: "twitter.com",
+    google: "google.com",
+    instagram: "instagram.com",
+    pinterest: "pinterest.com",
+    linkedin: "linkedin.com"
 }
 
 var colors = [
@@ -35,7 +35,7 @@ var colors = [
     "brown", "grey", "blue-grey"      // 16 17 18 19
 ];
 
-// colors = ['green', 'deep-purple']
+colors = ['blue']
 var i = Math.floor( Math.random() * (colors.length - 0) + 0 );
 var chooseColor = colors[i].toString();
 
@@ -43,23 +43,23 @@ var chooseColor = colors[i].toString();
 // ============= PERSONAL ==============
 var Person = {
     //-- de trong "" de giu nguyen default text
-    logoText: "Nguyễn Công Vũ",
-    fullname: "<strong>Nguyễn Công Vũ</strong>.",
-    slogan: "Unique. Sports. Professionals",
+    logoText: "Lý Hồng Lang",
+    fullname: "<strong>Lý Hồng Lang</strong>.",
+    slogan: "Insuarance Professional.",
     sex: '<i class="fa fa-male"></i>', //-- male, female
-    phone: 'tel:0937980003',
+    phone: 'tel:0903000111',
     // message: "Tôi đã sẵn sàng, còn bạn thì sao?", //-- thong diep chinh hien nay!
     message: "",
     
-    facebook: 'https://facebook.com/nguyencongvu',
-    twitter: "2",
-    google: "3",
-    instagram: "3",
-    pinterest: "0",
-    linkedin: "0",
-    google: "g",
+    email: "mailto:langly.290857@gmail.com",
+    facebook: 'https://facebook.com/',
+    facebook: "facebook.com",
+    twitter: "twitter.com",
+    google: "google.com",
+    instagram: "instagram.com",
+    pinterest: "pinterest.com",
+    linkedin: "linkedin.com",
     CTA: "Tôi muốn có ngay Landing Page",
-
 }
 
 

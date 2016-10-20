@@ -87,6 +87,8 @@ function setText(){
         $("span.sex").html(Person.sex);
     if (Person.phone)
         $("a.phone, li.phone").attr("href",Person.phone);
+    if (Person.email)
+        $("a.email").attr("href",Person.email);
     if (Person.facebook)
         $("a.facebook").attr("href",Person.facebook);
     if (Person.google)
