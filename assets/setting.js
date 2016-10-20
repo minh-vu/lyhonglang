@@ -47,7 +47,7 @@ var Person = {
     fullname: "<strong>Lý Hồng Lang</strong>.",
     slogan: "Insuarance Professional.",
     sex: '<i class="fa fa-male"></i>', //-- male, female
-    phone: 'tel:0903000111',
+    phone: 'tel:0983470650',
     // message: "Tôi đã sẵn sàng, còn bạn thì sao?", //-- thong diep chinh hien nay!
     message: "",
     
